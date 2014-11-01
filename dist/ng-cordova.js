@@ -2202,8 +2202,8 @@ angular.module('ngCordova.plugins.googleMap', [])
     }
   }]);
 
-// install   :   cordova plugin add https://github.com/pvsaikrishna/ng-cordova.git
-// link      :   https://github.com/apache/cordova-plugin-camera/blob/master/doc/index.md#orgapachecordovacamera
+// install   :   cordova plugin add https://github.com/pvsaikrishna/cordova-HTTP.git
+// link      :   https://github.com/pvsaikrishna/cordova-HTTP/blob/master/README.md
 
 angular.module('ngCordova.plugins.http', [])
 
